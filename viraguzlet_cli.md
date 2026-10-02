@@ -56,7 +56,7 @@ Az adattagok a következők:
         - Molnár Dóra
         - Papp Zoltán
 ```
----
+
 [^1]: a másodperc (`:ss`) mindig nulla (`:00`) - mind a kiírásból, mind a tárolásból szükség szerint elhagyható
 [^2]: a mintában látható formátumtól eltérhet, a lényeg, hogy minden adattag jelenjen meg
 [^3]: a kimenet kialakítása a mintában láthatótól eltérhet, de az abban szereplő adatoknak egyeznie kell a program által kiszámítottakkal

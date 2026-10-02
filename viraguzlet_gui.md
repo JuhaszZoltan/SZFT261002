@@ -25,9 +25,7 @@ A működés megértéséhez tekintse meg az alábbi vázlatot. Amikor a felhasz
 |                                                                          |
 +--------------------------------------------------------------------------+
 ```
-
-## Feladatok
-
+### feladatok
 1. **Projekt létrehozása:** Hozzon létre egy grafikus alkalmazást `FlowerShopGUI` néven!
 2. **Adatbázis kapcsolat:** Építsen ki kapcsolatot a lokális MySQL/MariaDB szerveren futó `viraguzlet` adatbázissal! A kapcsolódáshoz szükséges adatokat (szerver, felhasználónév, jelszó) égetve (hardcoded) is megadhatja.
 3. **Felület kialakítása:**
@@ -40,6 +38,5 @@ A működés megértéséhez tekintse meg az alábbi vázlatot. Amikor a felhasz
    - Készítsen eseménykezelőt, ami az adatrács egy sorának kijelölése vagy kattintása esetén megjeleníti a rendet virág képét a jobb oldali megjelenítőben az adatrácsban kijelölt sor alapján!
    - Ha a képforrás mappa tartalmaz `{viregneve}_{viragszine}.jpg` (ékezetek nélkül, csupa kisbetűvel) filet, töltse be azt a keretbe!
    - **Hibakezelés:** Ha a virághoz nem tartozik kép (az adatbázisban `NULL` szerepel), vagy a hivatkozott képfájl nem található a mappában, a képmegjelenítp maradjon üres!
-
 ---
 *megjegyzés: Ügyeljen arra, hogy a `imgs\flowerimgs` a fordítási kimeneti könyvtárhoz képest relatív útvonalon, vagy a projekt gyökerében megfelelően helyezze el a teszteléshez!*

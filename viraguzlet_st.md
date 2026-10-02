@@ -17,7 +17,7 @@
 | **összesen:** | **15** |
 
 
-## flowerShop GUI
+## flowershop GUI
 
 | feladat | pontszám |
 | ------- | -------- |
